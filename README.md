@@ -1,6 +1,4 @@
 Sentiment Analysis
-Group 26
-Project 20
 
 #### Technologies
 python, flask
